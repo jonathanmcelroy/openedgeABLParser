@@ -1,0 +1,6 @@
+[package]
+name = "openedgeABLParser"
+version = "0.1.0"
+authors = ["Jonathan McElroy <jonathanpmcelroy@gmail.com>"]
+
+[dependencies]
